@@ -47,7 +47,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
+global.sig = 'https://instagram.com/jepri.istiqamah' //Link Instagrammu
 global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
@@ -75,7 +75,7 @@ global.prems = [6285859842074] // Premium user bukan disini nambahinnya, ketik .
 
 
 global.lolkey = 'f14251de0d643acde7a2d553'
-global.xkey = 'APIKEYMU'
+global.xkey = '2fca0fbdcc837685'
 /*============== API ==============*/
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -90,7 +90,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYMU',
+  'https://api.xteam.xyz': '2fca0fbdcc837685',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
   'https://api.lolhuman.xyz': 'f14251de0d643acde7a2d553',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
